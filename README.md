@@ -1,1 +1,2 @@
-# ml_xmind_pro_am
+# Meachine Learning Studu Gudiance  
+xmind and ppt shared by pro_am  
